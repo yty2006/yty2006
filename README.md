@@ -1,1 +1,1 @@
-![Tianyang's GitHub stats](https://github-readme-stats-sand-zeta-26.vercel.app/api?username=yty2006&show_icons=true)
+![Tianyang's GitHub stats](https://github-readme-stats-yty2006s-projects.vercel.app/api?username=yty2006&show_icons=true)
